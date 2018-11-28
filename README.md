@@ -1,5 +1,5 @@
 # KWFM
-This code is MATLAB implementation of the paper "Kernel Wiener filtering model with low-rank approximation for image denoising".
+This code is MATLAB implementation of the paper "Kernel Wiener filtering model with low-rank approximation for image denoising, Information Sciences, 2018".
 
 
 # Citation
