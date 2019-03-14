@@ -17,5 +17,5 @@ This code is MATLAB implementation of the paper "Kernel Wiener filtering model w
   
   number={},
   
-  pages={402-416},
+  pages={402-416}
 }
